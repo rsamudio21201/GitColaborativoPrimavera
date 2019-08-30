@@ -10,6 +10,8 @@ namespace PruebaGitColaborativo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Soy tuMa");
+            Console.ReadLine();
         }
     }
 }
