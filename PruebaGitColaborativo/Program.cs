@@ -11,7 +11,7 @@ namespace PruebaGitColaborativo
         static void Main(string[] args)
         {
             Console.WriteLine("hola");
-            Console.WriteLine("Soy tu michi");
+            Console.WriteLine("Rene se la come");
             Console.ReadLine();
         }
     }
