@@ -11,6 +11,7 @@ namespace PruebaGitColaborativo
         public string VehiculoId { get; set; }
         public string Matricula { get; set; }
         public string Modelo { get; set; }
+        public int Año { get; set; }
 
 
     }
